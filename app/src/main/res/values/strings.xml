@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GP_app</string>
+    <string name="textview_id">ID</string>
+    <string name="textview_pw">PW</string>
+    <string name="button_login">확인</string>
+
 </resources>
